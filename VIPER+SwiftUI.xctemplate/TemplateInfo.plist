@@ -17,7 +17,7 @@
 	<key>Kind</key>
 	<string>Xcode.IDEKit.TextSubstitutionFileTemplateKind</string>
 	<key>MainTemplateFile</key>
-	<string>___FILEBASENAME___.swift</string>
+	<string>___FILEBASE_NAME___.swift</string>
 	<key>SortOrder</key>
 	<integer>1</integer>
 	<key>Template Author</key>
