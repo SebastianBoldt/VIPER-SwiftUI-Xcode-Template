@@ -1,4 +1,4 @@
-# VIPER + SwiftUI Xcode Template
+# VIPER + SwiftUI - Xcode Template
 
 ![Viper](https://github.com/SebastianBoldt/VIPER-SwiftUI-Xcode-Template/blob/master/Github%20Assets/banner.jpg?raw=true)
 
