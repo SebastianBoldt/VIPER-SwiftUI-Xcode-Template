@@ -1,6 +1,6 @@
 # VIPER + SwiftUI Xcode Template
 
-![Viper](https://github.com/SebastianBoldt/VIPER-SwiftUI-Xcode-Template/blob/master/Github%20Assets/viper.jpg?raw=true)
+![Viper](https://github.com/SebastianBoldt/VIPER-SwiftUI-Xcode-Template/blob/master/Github%20Assets/banner.jpg?raw=true)
 
 <a href="http://twitter.com/sebastianboldt"><img src="https://img.shields.io/badge/twitter-@sebastianboldt-blue.svg?longCache=true&style=flat-square" alt="twitter handle" /></a>
 <a href="https://developer.apple.com/swift"><img src="https://img.shields.io/badge/swift4-compatible-orange.svg?longCache=true&style=flat-square" alt="Swift 4 compatible" /></a>
@@ -12,6 +12,11 @@
 Use the install script.
 
 ```sudo swift install.swift```
+
+## Architecture
+
+![Architecture](https://github.com/SebastianBoldt/VIPER-SwiftUI-Xcode-Template/blob/master/Github%20Assets/architecture.jpeg?raw=true)
+
 
 ## 🤖 Authors
 
