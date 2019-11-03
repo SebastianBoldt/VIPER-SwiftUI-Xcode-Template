@@ -15,7 +15,7 @@ Use the install script.
 
 ## Architecture
 
-![Architecture](https://github.com/SebastianBoldt/VIPER-SwiftUI-Xcode-Template/blob/master/Github%20Assets/architecture.jpeg?raw=true)
+![Architecture](https://github.com/SebastianBoldt/VIPER-SwiftUI-Xcode-Template/blob/master/Github%20Assets/architecture-graph.jpeg?raw=true)
 
 
 ## 🤖 Authors
