@@ -20,7 +20,9 @@ struct ___VARIABLE_MODULENAME___WireFrame: ___VARIABLE_MODULENAME___WireFramePro
         let presenterDependencies = ___VARIABLE_MODULENAME___PresenterDepenencies()
         let presenter = ___VARIABLE_MODULENAME___Presenter(dependencies: presenterDependencies, interactor: interactor)
         
-        let view = ___VARIABLE_MODULENAME___View(presenter: presenter)
+        let viewDependencies = ___VARIABLE_MODULENAME___ViewDepenencies()
+        let view = ___VARIABLE_MODULENAME___View(presenter: presenter, dependencies: dependencies)
+        
         return AnyView(view)
     }
 }
