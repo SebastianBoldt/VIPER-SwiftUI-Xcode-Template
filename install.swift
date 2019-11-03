@@ -14,7 +14,7 @@ struct Constants {
         static let no = "NO"
     }
     struct File {
-        static let templateName = "Viper.xctemplate"
+        static let templateName = "VIPER+SwiftUI.xctemplate"
         static let destinationRelativePath = "/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/Project Templates/iOS/Application"
     }
 
