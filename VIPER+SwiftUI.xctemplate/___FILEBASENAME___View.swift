@@ -16,7 +16,7 @@ struct ___VARIABLE_MODULENAME___View: View {
     @ObservedObject private var presenter: ___VARIABLE_MODULENAME___Presenter
 
     var body: some View {
-        Text($presenter.exampleProperty)
+        Text(presenter.exampleProperty)
     }
     
     init(presenter: ___VARIABLE_MODULENAME___Presenter) {
